@@ -30,3 +30,8 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Kodluyoruz Logo](https://avatars.githubusercontent.com/u/55656868?s=200&v=4)
+
+
+# Patika.dev Linki
+
+[Patika | nisacerenunnu](https://app.patika.dev/nisacerenunnu)
